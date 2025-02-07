@@ -1,0 +1,75 @@
+<svg
+    xmlns="http://www.w3.org/2000/svg"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    width="68" 
+    height="1564">
+  <defs>
+    <symbol id="arrowL">
+        <path d="M42.0257 24.7527L39.1148 21.8417L26.9587 33.9978L29.8697 36.9087L29.8753 36.903L39.1306 46.1583L42.0415 43.2473L32.7863 33.9921L42.0257 24.7527Z" />
+    </symbol>
+
+    <symbol id="arrowR">
+        <path d="M26.9743 43.2473L29.8852 46.1583L42.0413 34.0022L39.1303 31.0913L39.1247 31.097L29.8694 21.8417L26.9585 24.7527L36.2137 34.0079L26.9743 43.2473Z" />
+    </symbol>
+    
+    <symbol id="arrowU">
+        <path d="M43.7473 41.5257L46.6583 38.6148L34.5022 26.4587L31.5913 29.3697L31.597 29.3753L22.3417 38.6306L25.2527 41.5415L34.5079 32.2863L43.7473 41.5257Z" />
+    </symbol>
+
+    <symbol id="arrowD">
+        <path d="M25.2527 26.4743L22.3417 29.3852L34.4978 41.5413L37.4087 38.6303L37.403 38.6247L46.6583 29.3694L43.7473 26.4585L34.4921 35.7137L25.2527 26.4743Z" />
+    </symbol>
+
+    <symbol id="x">
+        <path d="M26.7256 22.5623L23.1901 26.0979L30.9467 33.8545L22.8992 41.902L26.4347 45.4375L34.4822 37.39L42.5653 45.4731L46.1008 41.9376L38.0178 33.8545L45.8099 26.0623L42.2744 22.5268L34.4822 30.3189L26.7256 22.5623Z" />
+    </symbol>
+
+    <symbol id="rect">
+        <path d="M32.5 22H22.5V46H32.5V22Z" />
+        <path d="M46.5 22H36.5V37H46.5V22Z" />
+    </symbol>
+
+    <symbol id="squares">
+        <path d="M22.5 22H32.5V32H22.5V22Z" />
+        <path d="M36.5 22H46.5V32H36.5V22Z" />
+        <path d="M22.5 36H32.5V46H22.5V36Z" />
+        <path d="M36.5 36H46.5V46H36.5V36Z" />
+    </symbol>
+
+    <symbol id="list">
+        <path d="M22.5 21.9999H46.5V27.9999H22.5V21.9999Z" />
+        <path d="M22.5 30.9999H46.5V36.9999H22.5V30.9999Z" />
+        <path d="M34.5 39.9999H22.5V45.9999H34.5V39.9999Z" />
+    </symbol>
+
+    <symbol id="Magnify">
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M32.9801 21.8427C26.4681 21.8427 21.189 27.1218 21.189 33.6338C21.189 40.1459 26.4681 45.4249 32.9801 45.4249C35.6295 45.4249 38.0762 44.5504 40.0451 43.0748L44.6266 47.6564L46.811 45.472L42.2546 40.9156C43.8307 38.9109 44.7712 36.3815 44.7712 33.6338C44.7712 27.1218 39.4922 21.8427 32.9801 21.8427ZM24.2782 33.6338C24.2782 28.8279 28.1742 24.9319 32.9801 24.9319C37.7861 24.9319 41.6821 28.8279 41.6821 33.6338C41.6821 38.4398 37.7861 42.3358 32.9801 42.3358C28.1742 42.3358 24.2782 38.4398 24.2782 33.6338Z" />
+
+
+    </symbol>
+
+  </defs>
+  <use xlink:href="#arrowL" x="0" y="0"   fill="#959595" />
+  <use xlink:href="#arrowL" x="0" y="68"  fill="#CACACA" />
+  <use xlink:href="#arrowL"   x="0" y="136"  fill="#1E29C1" />
+  <use xlink:href="#arrowR"   x="0" y="204"  fill="#959595" />
+  <use xlink:href="#arrowR"   x="0" y="272"  fill="#CACACA" />
+  <use xlink:href="#arrowR"   x="0" y="340"  fill="#1E29C1" />
+  <use xlink:href="#arrowU"   x="0" y="408"  fill="#959595" />
+  <use xlink:href="#arrowU"   x="0" y="476"  fill="#1E29C1" />
+  <use xlink:href="#arrowD"   x="0" y="544"  fill="#959595" />
+  <use xlink:href="#arrowD"   x="0" y="612"  fill="#1E29C1" />
+  <use xlink:href="#x"   x="0" y="680"  fill="#959595" />
+  <use xlink:href="#x"   x="0" y="748"  fill="#1A1A1A" />
+  <use xlink:href="#arrowL"   x="0" y="816"  fill="#ffffff" />
+  <use xlink:href="#arrowR"   x="0" y="884"  fill="#ffffff" />
+  <use xlink:href="#rect"   x="0" y="952"  fill="#ACACAC" />
+  <use xlink:href="#rect"   x="0" y="1020"  fill="#1E29C1" />
+  <use xlink:href="#squares"   x="0" y="1088"  fill="#ACACAC" />
+  <use xlink:href="#squares"   x="0" y="1156"  fill="#1E29C1" />
+  <use xlink:href="#list"   x="0" y="1224"  fill="#ACACAC" />
+  <use xlink:href="#list"   x="0" y="1294"  fill="#1E29C1" />
+  <use xlink:href="#arrowR"   x="0" y="1360"  fill="#333333" />
+  <use xlink:href="#Magnify"   x="0" y="1428"  fill="#ffffff" />
+  <use xlink:href="#Magnify"   x="0" y="1496"  fill="#333333" />
+</svg>

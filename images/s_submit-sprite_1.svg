@@ -1,0 +1,65 @@
+<svg
+    xmlns="http://www.w3.org/2000/svg"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    width="70" 
+    height="1400">
+  <defs>
+    <symbol id="tick">
+        <path d="M48.5373 27.843L44.6574 24.1392L31.0237 38.0364L25.5355 31.8205L21.4648 35.3178L30.8151 45.9078L48.5373 27.843Z"/>
+    </symbol>
+
+    <symbol id="arrowL">
+        <path d="M44.2626 23.876L40.5509 20.1643L25.7178 34.9974L29.4295 38.7091L29.4366 38.702L40.5704 49.8358L44.2821 46.124L33.1483 34.9903L44.2626 23.876Z"/>
+    </symbol>
+    
+    <symbol id="arrowR">
+        <path d="M25.7374 46.124L29.4491 49.8357L44.2822 35.0026L40.5705 31.2909L40.5634 31.298L29.4296 20.1642L25.7179 23.876L36.8517 35.0097L25.7374 46.124Z" />
+    </symbol>
+
+    <symbol id="upload">
+        <path d="M42.2398 30.5771L35.0001 23.3374L27.7604 30.5771L29.5703 32.387L33.2373 28.72V38.7509H36.6501V28.6072L40.4299 32.387L42.2398 30.5771Z" />
+        <path d="M24.7616 34.975V43.2497H45.2384V34.975H48.6512V46.6625H21.3488V34.975H24.7616Z" />
+    </symbol>
+
+    <symbol id="download">
+        <path d="M34.8704 39.469L35.0003 39.353L35.1304 39.469L43.6373 31.8753L41.3805 29.8608L37.0718 33.707V23.1856H33.0616V33.8253L28.6202 29.8607L26.3634 31.8752L34.8704 39.469Z" />
+        <path d="M20.9645 46.8145H49.036V42.7512H20.9645V46.8145Z" />
+    </symbol>
+
+    <symbol id="mail">
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M49.1306 22.948H20.8694V47.0519H49.1306V22.948ZM23.9886 27.5798L34.4645 37.8043L34.9789 38.3478L46.0114 27.5801V43.9075H23.9886V27.5798ZM35.0001 33.9503L26.949 26.0924H43.0513L35.0001 33.9503Z" />
+    </symbol>
+
+    <symbol id="x">
+        <path d="M27.2256 23.5624L23.6901 27.0979L31.4467 34.8545L23.3992 42.9021L26.9347 46.4376L34.9822 38.3901L43.0653 46.4732L46.6008 42.9376L38.5178 34.8545L46.3099 27.0624L42.7744 23.5269L34.9822 31.319L27.2256 23.5624Z" />
+    </symbol>
+
+    <symbol id="cross">
+        <path d="M33.3581 36.6085V47.0027H37.3581V36.6085H46.9106V32.6085H37.3581V22.9973H33.3581V32.6085H23.0894V36.6085H33.3581Z" />
+    </symbol>
+
+    <symbol id="star">
+        <path d="M34.5 16L38.6535 28.7832H52.0945L41.2205 36.6836L45.374 49.4668L34.5 41.5664L23.626 49.4668L27.7795 36.6836L16.9055 28.7832H30.3465L34.5 16Z"/>
+    </symbol>
+  </defs>
+  <use xlink:href="#tick" x="0" y="0"   fill="#1E29C1" />
+  <use xlink:href="#tick" x="0" y="70"  fill="#E52216" />
+  <use xlink:href="#tick"   x="0" y="140"  fill="#ffffff" />
+  <use xlink:href="#arrowR"   x="0" y="210"  fill="#1E29C1" />
+  <use xlink:href="#arrowR"   x="0" y="280"  fill="#ffffff" />
+  <use xlink:href="#arrowL"   x="0" y="350"  fill="#1E29C1" />
+  <use xlink:href="#arrowL"   x="0" y="420"  fill="#ffffff" />
+  <use xlink:href="#upload"   x="0" y="490"  fill="#1E29C1" />
+  <use xlink:href="#upload"   x="0" y="560"  fill="#ffffff" />
+  <use xlink:href="#download"   x="0" y="630"  fill="#959595" />
+  <use xlink:href="#download"   x="0" y="700"  fill="#ffffff" />
+  <use xlink:href="#mail"   x="0" y="770"  fill="#1E29C1" />
+  <use xlink:href="#mail"   x="0" y="840"  fill="#ffffff" />
+  <use xlink:href="#x"   x="0" y="910"  fill="#959595" />
+  <use xlink:href="#x"   x="0" y="980"  fill="#ffffff" />
+  <use xlink:href="#cross"   x="0" y="1050"  fill="#1E29C1" />
+  <use xlink:href="#cross"   x="0" y="1120"  fill="#ffffff" />
+  <use xlink:href="#star"   x="0" y="1190"  fill="#1E29C1" />
+  <use xlink:href="#star"   x="0" y="1260"  fill="#ffffff" />
+  <use xlink:href="#arrowR"   x="0" y="1330"  fill="#959595" />
+</svg>
